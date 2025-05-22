@@ -13,7 +13,7 @@ I'm a data science graduate student with a background in health analytics, machi
 ## Projects
 
 ### Anti-Money Laundering Detection (M.S. Capstone Project)
-> [`tdbank-aml`](https://github.com/engi4800/dsi-capstone-spring-2025-TD-anti-money-laundering)  
+> [`dsi-capstone-spring-2025-TD-anti-money-laundering`](https://github.com/engi4800/dsi-capstone-spring-2025-TD-anti-money-laundering)  
 Built a Graph Neural Network pipeline to detect suspicious financial transactions. Compared GNN performance with XGBoost + engineered graph features. Developed modular PyTorch codebase and real-time evaluation tools.
 
 ### Colorectal Cancer in the Dominican Republic
