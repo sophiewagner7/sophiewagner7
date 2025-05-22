@@ -38,8 +38,8 @@
 ## Tech Stack
 
 - **Languages:** Python, R, SQL, SAS
-- **Libraries:** PyTorch, scikit-learn, XGBoost, CatBoost, `survival`, `survminer`
-- **Tools:** VS Code, Git, TreeAge, Jupyter, RMarkdown
+- **Libraries:** PyTorch, scikit-learn, XGBoost, CatBoost
+- **Tools:** VS Code, Git, TreeAge, Jupyter, ArcGIS, Tableau
 - **Specialties:** Graph ML (GNNs, PyG), decision modeling, cost-effectiveness, survival analysis
 
 ---
