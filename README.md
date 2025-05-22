@@ -1,54 +1,62 @@
 <!--
-**sophiewagner7/sophiewagner7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sophiewagner7/sophiewagner7** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
-
 
 # Hi, I'm Sophie Wagner
 
-I'm a data science graduate student with a background in health analytics, machine learning, and Python-based research tools. I'm passionate about graph learning, reproducibility, and building tools that make data more accessible.
+🎓 Data scientist with a focus on healthcare analytics, graph machine learning, and decision modeling.  
+📍 MS in Data Science @ Columbia | Research Analyst @ CUIMC 
+🛠️ Python, R, PyTorch, survival models, and real-world health data
 
 ---
 
 ## Projects
 
-### Anti-Money Laundering Detection (Columbia MSDS Capstone Project)
-> [`dsi-capstone-spring-2025-TD-anti-money-laundering`](https://github.com/engi4800/dsi-capstone-spring-2025-TD-anti-money-laundering)  
-Built a Graph Neural Network pipeline to detect suspicious financial transactions. Compared GNN performance with XGBoost + engineered graph features. Developed modular PyTorch codebase and real-time evaluation tools.
+### [Anti-Money Laundering Detection](https://github.com/engi4800/dsi-capstone-spring-2025-TD-anti-money-laundering) (Columbia Capstone)
+- Built a GNN pipeline to detect suspicious transactions
+- Compared GNN vs. XGBoost + engineered graph features
+- Developed modular PyTorch training and evaluation framework
 
-### Colorectal Cancer in the Dominican Republic (CUIMC)
-> [`dr-crc-calibration`](https://github.com/sophiewagner7/dr-crc-calibration)
-Calibration for the natural history of colorectal cancer to U.S. SEER data, DR GCO estimates, and DR hospital data. For use in Markov cohort screening model.
+### [Colorectal Cancer Calibration (DR)](https://github.com/sophiewagner7/dr-crc-calibration) (CUIMC)
+- Calibrated CRC progression models using SEER and Dominican Republic data
+- Supports a Markov model for cost-effectiveness of screening in LMIC settings
 
-### Pancreatic Cancer Screening for New-Onset Diabetes Patients (CUIMC)
-> [`pdac-calibration`](https://github.com/sophiewagner7/pdac-calibration)
-Calibration for the natural history of pancreatic cancer in new-onset diabetes patients for use in Markov decision-analytic screening model.
+### [Pancreatic Cancer in New-Onset Diabetes](https://github.com/sophiewagner7/pdac-calibration) (CUIMC)
+- Calibrated natural history model for PDAC in high-risk patients
+- Supports screening strategy evaluation in decision-analytic models
 
-### It's Too Nice Out to Take a Cab (Columbia MSDS Assignment - Data Viz)
-> Site: [`its-too-nice-out-to-take-a-cab`](https://sophiewagner7.github.io/its-too-nice-out-to-take-a-cab)
-> Repo: [`its-too-nice-out-to-take-a-cab`](https://github.com/sophiewagner7/its-too-nice-out-to-take-a-cab)
-Data visualization and github site creation practice. Analysis of NYC taxi data. R, HTML, D3.
+### [It’s Too Nice Out to Take a Cab](https://sophiewagner7.github.io/its-too-nice-out-to-take-a-cab)
+- Visualized NYC taxi data using R, D3, and HTML
+- Published interactive GitHub Pages site
 
-### Survival analysis 
-> [`surv-analysis-R`](https://github.com/sophiewagner7/surv-analysis-R)
-Educational template for carrying out survival analysis in R. Overview of `survminer`, `ggsurvplot`, `tidycmprsk`, and other packages for Kaplan-Meier, CIF, Cox PH, and Fine-Gray competing risk models.
+### [Survival Analysis in R](https://github.com/sophiewagner7/surv-analysis-R)
+- Educational template covering `survminer`, `ggsurvplot`, CIF, Cox PH, Fine-Gray models
+- Cleanly commented and designed for reproducibility
 
 ---
 
 ## Tech Stack
 
 - **Languages:** Python, R, SQL, SAS
-- **Tools:** VS Code, Git, PyTorch, scikit-learn, XGBoost, TreeAge
-- **ML:** DL, NNs, GNNs (PyG), XGBoost, CatBoost, Markov
+- **Libraries:** PyTorch, scikit-learn, XGBoost, CatBoost, `survival`, `survminer`
+- **Tools:** VS Code, Git, TreeAge, Jupyter, RMarkdown
+- **Specialties:** Graph ML (GNNs, PyG), decision modeling, cost-effectiveness, survival analysis
 
 ---
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sophie-wagner-cu)
-- [Email](mailto:sw3767@columbia.edu)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sophie-wagner-cu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="20" />
+  </a>
+  &nbsp;
+  <a href="mailto:sw3767@columbia.edu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="20" />
+  </a>
+</p>
 
 ---
 
-*Thanks for visiting!*
+_Thanks for visiting!_
 
