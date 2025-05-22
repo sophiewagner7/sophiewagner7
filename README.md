@@ -5,7 +5,7 @@
 # Hi, I'm Sophie Wagner
 
 🎓 Data scientist with a focus on healthcare analytics, graph machine learning, and decision modeling.  
-📍 MS in Data Science @ Columbia | Research Analyst @ CUIMC 
+📍 MS in Data Science @ Columbia | Research Analyst @ CUIMC  
 🛠️ Python, R, PyTorch, survival models, and real-world health data
 
 ---
