@@ -8,6 +8,16 @@
 📍 MS in Data Science @ Columbia | Research Analyst @ CUIMC  
 🛠️ Python, R, PyTorch, survival models, and real-world health data
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sophie-wagner-cu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a><a href="mailto:sw3767@columbia.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+</p>
+
+
+
 ---
 
 ## Projects
@@ -41,20 +51,6 @@
 - **Libraries:** PyTorch, scikit-learn, XGBoost, CatBoost
 - **Tools:** VS Code, Git, TreeAge, Jupyter, ArcGIS, Tableau
 - **Specialties:** Graph ML (GNNs, PyG), decision modeling, cost-effectiveness, survival analysis
-
----
-
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sophie-wagner-cu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="20" />
-  </a>
-  &nbsp;
-  <a href="mailto:sw3767@columbia.edu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" height="20" />
-  </a>
-</p>
 
 ---
 
