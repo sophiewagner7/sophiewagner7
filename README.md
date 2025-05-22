@@ -25,7 +25,8 @@ Calibration for the natural history of colorectal cancer to U.S. SEER data, DR G
 Calibration for the natural history of pancreatic cancer in new-onset diabetes patients for use in Markov decision-analytic screening model.
 
 ### It's Too Nice Out to Take a Cab (Columbia MSDS Assignment - Data Viz)
-> [`its-too-nice-out-to-take-a-cab`](https://github.com/sophiewagner7/its-too-nice-out-to-take-a-cab)
+> Site: [`its-too-nice-out-to-take-a-cab`](https://sophiewagner7.github.io/its-too-nice-out-to-take-a-cab)
+> Repo: [`its-too-nice-out-to-take-a-cab`](https://github.com/sophiewagner7/its-too-nice-out-to-take-a-cab)
 Data visualization and github site creation practice. Analysis of NYC taxi data. R, HTML, D3.
 
 ### Survival analysis 
