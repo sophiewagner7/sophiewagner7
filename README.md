@@ -22,7 +22,7 @@
 
 ## Projects
 
-### [Anti-Money Laundering Detection](https://github.com/engi4800/dsi-capstone-spring-2025-TD-anti-money-laundering) (Columbia Capstone)
+### [Anti-Money Laundering Detection](https://github.com/engie4800/dsi-capstone-spring-2025-TD-anti-money-laundering) (Columbia Capstone)
 - Built a GNN pipeline to detect suspicious transactions
 - Compared GNN vs. XGBoost + engineered graph features
 - Developed modular PyTorch training and evaluation framework
