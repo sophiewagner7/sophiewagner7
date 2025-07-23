@@ -31,7 +31,7 @@
 - Calibrated CRC progression models using SEER and Dominican Republic data
 - Supports a Markov model for cost-effectiveness of screening in LMIC settings
 
-### [Pancreatic Cancer in New-Onset Diabetes](https://github.com/sophiewagner7/pdac-calibration) (CUIMC)
+### [Pancreatic Cancer in New-Onset Diabetes](https://github.com/CUMC/endpac-pancreatic-model) (CUIMC)
 - Calibrated natural history model for PDAC in high-risk patients
 - Supports screening strategy evaluation in decision-analytic models
 
